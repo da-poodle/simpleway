@@ -1,0 +1,2 @@
+# simpleway
+Simple way website
